@@ -1,0 +1,1 @@
+ The performance of the models can be affected by factors such as pose, lighting, and facial expressions, and the models need to be trained and tested on data that is representative of the real-world scenarios in which they will be used.
